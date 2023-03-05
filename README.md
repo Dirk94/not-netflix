@@ -2,6 +2,9 @@
 
 This is a movie streaming app similar to Netflix, but definitely not Netflix.
 
+![NotNetflix](public/not-netflix.png)
+
+
 ## Project setup
 ```sh
 # Make sure you are on Node version 18
